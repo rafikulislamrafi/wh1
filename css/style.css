@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+  width: fit-content;
+  margin: auto;
+  padding-top: 50px;
+}
+.content{
+  width: 400px;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.photo img{
+  border-radius: 25px 25px 0 0;
+  width: 100%;
+}
+.text{
+  padding: 10px 0 20px 20px;
+  border:1px solid black;
+  border-radius: 0 0 20px 20px;
+}
+.text h5{
+  color: #DF6866;
+}
+.btn{
+
+}
+.btn a:hover {
+  color: aliceblue;
+  background-color: #FF7E31;
+}
+.btn a{
+  text-decoration: none;
+  display: inline-block;
+  color: #8c0000;
+  padding: 10px;
+}
+.btn-m{
+  margin: 0 0 0 195px;
+  width: fit-content;
+  border: 1px solid #FF7E31;
+  border-radius: 5px;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+/* creative it end */
